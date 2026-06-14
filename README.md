@@ -128,8 +128,7 @@ This sequence ensures that users can easily navigate through the system and comp
 Paste your Figma Shareable Link Here.
 
 Example:
-https://www.figma.com/file/XXXXXXXXXXXX
-
+https://www.figma.com/make/tNeXDHjWtmXHrx8TmIpTk0/Food-Ordering-App?t=EVYRfLo8x4OLiWGI-1
 ## GitHub Repository Link
 
 Paste your GitHub Repository Link Here.## GitHub Repository Link
